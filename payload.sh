@@ -1,3 +1,4 @@
+#https://github.com/termux4me/php_ssh_remote payload.sh 
 #server side
 #read -p 'set directory :' dir
 #read -p 'set user :' user
